@@ -2,6 +2,8 @@
 
 AIM: To study and implement C++ decision making statements loops.
 
+SOFTWARE: Visual Studio Code
+
 THEORY: 
 Loops are a fundamental part of programming which allow a block of code to iterate on basis of some given conditions. The types of loops are:
 
